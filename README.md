@@ -6,3 +6,5 @@ I'm Timothy, a backend engineer at [Shopee](https://www.seagroup.com/products/sh
 📫 How to reach me:
 * Email: i@xiaozhou.net
 * Telegram: [@TimothyYe](https://t.me/timothyye)
+
+![TimothyYe's github stats](https://github-readme-stats.vercel.app/api?username=TimothyYe&show_icons=true&theme=radical)
