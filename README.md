@@ -7,9 +7,12 @@ I'm Timothy, a backend engineer at [Shopee](https://www.seagroup.com/products/sh
 * Email: i@xiaozhou.net
 * Telegram: [@TimothyYe](https://t.me/timothyye)
 
-![TimothyYe's github stats](https://github-readme-stats.vercel.app/api?username=TimothyYe&show_icons=true&theme=radical)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=timothyye&count_private=true&include_all_commits=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyye&layout=compact&langs_count=8&theme=dracula" />
+</div>
 
 <hr>
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=timothyye.timothyye" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=timothyye.timothyye" alt="visitor badge"/>  
 </p>
