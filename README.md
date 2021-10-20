@@ -8,7 +8,7 @@ I'm Timothy, a backend engineer at [Shopee](https://www.seagroup.com/products/sh
 * Telegram: [@TimothyYe](https://t.me/timothyye)
 
 <div>
-  <img height="185" align="left" src="https://github-readme-stats.vercel.app/api?username=timothyye&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=timothyye&count_private=true&include_all_commits=true&theme=dracula" />
 </div>
 
 <hr>
