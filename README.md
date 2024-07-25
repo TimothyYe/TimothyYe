@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to the mysterious secret page...  
-I'm Timothy, a backend engineer at [Shopee](https://www.seagroup.com/products/shopee).
+I'm Timothy, a full-stack engineer.
 
 📫 How to reach me:
 * Email: i@xiaozhou.net
