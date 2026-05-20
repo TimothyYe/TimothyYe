@@ -7,9 +7,11 @@ I'm Timothy, a full-stack engineer.
 * Email: i@xiaozhou.net
 * Telegram: [@imTimothy](https://t.me/imTimothy)
 
-<div>
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=timothyye&count_private=true&include_all_commits=true&theme=dracula" />
-</div>
+<a href="https://github.com/timothyye">
+  <img height="185" align="left" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="185" align="left" src="./profile/top-langs.svg" alt="Top languages" />
+</a>
+<br clear="left" />
 
 <hr>
 <p  align="center">
